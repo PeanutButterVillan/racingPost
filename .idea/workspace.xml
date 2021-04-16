@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdcb715b-4502-41d0-a0ff-9dfb5824ff89" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nISkHoYUFiHlScfSY28UCkGdj8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/binaries" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/binaries" />
+      <recent name="$PROJECT_DIR$/../racingPostTestFramework/src/main/resources/binaries" />
+      <recent name="$PROJECT_DIR$/../racingPostTestFramework/src/main/java" />
+      <recent name="$PROJECT_DIR$/../racingPostTestFramework/src/main/java/com/drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UnitTest.canGoToJavaPathPage">
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RacingPost" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.feature.bdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.feature.bdd" />
+      <option name="MAIN_CLASS_NAME" value="com.feature.bdd.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuperSmoothieProgramTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RacingPost" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.feature.bdd.loyalty_cards.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.feature.bdd.loyalty_cards" />
+      <option name="MAIN_CLASS_NAME" value="com.feature.bdd.loyalty_cards.SuperSmoothieProgramTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RacingPost" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.feature.bdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.feature.bdd" />
+      <option name="MAIN_CLASS_NAME" value="com.feature.bdd.UnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest.canGoToHomePage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RacingPost" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.feature.bdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.feature.bdd" />
+      <option name="MAIN_CLASS_NAME" value="com.feature.bdd.UnitTest" />
+      <option name="METHOD_NAME" value="canGoToHomePage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest.canGoToJavaPathPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RacingPost" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.feature.bdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.feature.bdd" />
+      <option name="MAIN_CLASS_NAME" value="com.feature.bdd.UnitTest" />
+      <option name="METHOD_NAME" value="canGoToJavaPathPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UnitTest.canGoToJavaPathPage" />
+        <item itemvalue="JUnit.UnitTest.canGoToHomePage" />
+        <item itemvalue="JUnit.UnitTest" />
+        <item itemvalue="JUnit.SuperSmoothieProgramTestSuite" />
+        <item itemvalue="JUnit.CalculatorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdcb715b-4502-41d0-a0ff-9dfb5824ff89" name="Default Changelist" comment="" />
+      <created>1611076252106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611076252106</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="584" y="370" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611077868958">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="584" y="370" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1611077868958" />
+    <state width="433" height="466" key="DebuggerActiveHint" timestamp="1611515645584">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="433" height="466" key="DebuggerActiveHint/0.0.1792.1120@0.0.1792.1120" timestamp="1611515645584" />
+    <state width="1750" height="391" key="GridCell.Tab.0.bottom" timestamp="1611700619438">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1611700619438" />
+    <state width="1750" height="391" key="GridCell.Tab.0.center" timestamp="1611700619434">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1611700619434" />
+    <state width="1750" height="391" key="GridCell.Tab.0.left" timestamp="1611700619432">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1611700619432" />
+    <state width="1750" height="391" key="GridCell.Tab.0.right" timestamp="1611700619436">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1611700619436" />
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom" timestamp="1611700619445">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1611700619445" />
+    <state width="1750" height="391" key="GridCell.Tab.1.center" timestamp="1611700619442">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1611700619442" />
+    <state width="1750" height="391" key="GridCell.Tab.1.left" timestamp="1611700619440">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1611700619440" />
+    <state width="1750" height="391" key="GridCell.Tab.1.right" timestamp="1611700619443">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1611700619443" />
+    <state x="508" y="261" key="NewModule_or_Project.wizard" timestamp="1611077518953">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="508" y="261" key="NewModule_or_Project.wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1611077518953" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1611076614581">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1611076614581" />
+    <state x="273" y="264" key="new project wizard" timestamp="1611262076910">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="273" y="264" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1611262076910" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/feature/bdd/UnitTest.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../racingPostTestFramework/src/main/java/com/feature/HomePage.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/feature/bdd/UnitTest.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="Browser.title(driver)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
